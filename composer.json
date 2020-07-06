@@ -1,0 +1,19 @@
+{
+    "name": "psp/profilegenerator",
+    "description": "A package for generating user profiles",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Priyanka Shinde",
+            "email": "priyankashinde24@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "PSP\\profilegenerator\\": "packages/PSP/profilegenerator/src/"
+        }
+    }
+}
