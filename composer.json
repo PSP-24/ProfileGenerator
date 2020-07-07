@@ -1,6 +1,7 @@
 {
-    "name": "psp/profilegenerator",
+    "name": "psp-24/profilegenerator",
     "description": "A package for generating user profiles",
+    "homepage": "https://github.com/PSP-24/ProfileGenerator",
     "type": "library",
     "authors": [
         {
